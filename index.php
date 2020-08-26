@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Miet | ERP </title>
-	<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" type="text/css" />
+	<link rel="stylesheet" href="bootstrap/css/bootstrap.css" type="text/css" />
 	
 </head>
 
