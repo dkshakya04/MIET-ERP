@@ -1,2 +1,2 @@
 # MIET-ERP
-https://mieterp.a0001.net
+<a href="http://mieterp.a0001.net">Click here to see</a>
